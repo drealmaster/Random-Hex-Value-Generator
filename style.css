@@ -8,7 +8,8 @@
    margin-right: 1.2rem;
    font-size: larger;
    font-weight: 500;
-   border: 1px solid black;
+   border: none;
+   outline: none;
 }
 
 
@@ -20,7 +21,8 @@
     border-radius: 9px;
    text-decoration: none;
    margin-top: 1.2rem;
-   border: 1px solid blueviolet;
+   border: none;
+   outline: none;
 }
 
 a{
@@ -44,18 +46,15 @@ a:hover{
    font-weight: 500;
    border: 1px solid blueviolet;
    margin-left: 40px;
+   outline: none;
 }
 
-.box-div{
-    width: 500px;
+ .box-div{
+    
     height: 40vh;
     background-color: cornflowerblue;
     margin-top: 90px;
    
-}
+} 
 
-#color-section{
-    margin-top: 300px;
-    margin-left: 600px;
-}
 
