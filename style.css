@@ -1,0 +1,61 @@
+#button{
+    width: 9rem;
+    height: 3rem;
+    color: black;
+    background-color: burlywood;
+    border-radius: 6px;
+   text-decoration: none;
+   margin-right: 1.2rem;
+   font-size: larger;
+   font-weight: 500;
+   border: 1px solid black;
+}
+
+
+#banner-button{
+    width: 9rem;
+    height: 3rem;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 9px;
+   text-decoration: none;
+   margin-top: 1.2rem;
+   border: 1px solid blueviolet;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+#btn{
+    width: 9rem;
+    height: 3rem;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 9px;
+   text-decoration: none;
+   margin-right: 1.2rem;
+   font-size: larger;
+   font-weight: 500;
+   border: 1px solid blueviolet;
+   margin-left: 40px;
+}
+
+.box-div{
+    width: 500px;
+    height: 40vh;
+    background-color: cornflowerblue;
+    margin-top: 90px;
+   
+}
+
+#color-section{
+    margin-top: 300px;
+    margin-left: 600px;
+}
+
